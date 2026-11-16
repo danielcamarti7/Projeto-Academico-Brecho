@@ -1,0 +1,13 @@
+{
+  "name": "brecho-online",
+  "version": "1.0.0",
+  "description": "Brecho online com login e CRUD de roupas - Express + MySQL",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.3",
+    "express": "^4.21.0",
+    "mysql2": "^3.11.0"
+  }
+}
